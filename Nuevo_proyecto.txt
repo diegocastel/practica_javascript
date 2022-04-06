@@ -1,6 +1,8 @@
 Hola, este es un nuevo proyecto
 
-Estoy aprendiendo a utilizar git hoy martes
+Estoy aprendiendo a utilizar git 
+
+hoy Miercoles 
 
 
-Estoy en las horas de la mañana
+Estoy en las horas de la mañana tarde 
