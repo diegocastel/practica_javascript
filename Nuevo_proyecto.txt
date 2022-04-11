@@ -2,9 +2,11 @@ Hola, este es un nuevo proyecto
 
 Estoy aprendiendo a utilizar git 
 
-hoy Miercoles 
+hoy Domingo 
 
 
 Estoy en las horas de la mañana tarde 
 
 Agregue este texto porque es una buena practica
+
+Y acabo de poner este texto para aprender
